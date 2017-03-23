@@ -762,7 +762,7 @@ CONFIG_THUNDERPLUG_CONTROL=y
 
 #
 # Thermal
-# CONFIG_INTELLI_THERMAL is not set
+CONFIG_INTELLI_THERMAL=y
 
 #
 # ARM CPU frequency scaling drivers
